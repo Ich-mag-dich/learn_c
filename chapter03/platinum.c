@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(int argc, char const* argv[]) {
-  float weight;  // 몸뮤게
+  float weight;  // 몸무게
   float value;   // 플래티넘 가치로 계산한 값
 
   printf("당신의 몸무게를 플래티넘 가치로 계산하면 얼마나 나갈까요?\n");
